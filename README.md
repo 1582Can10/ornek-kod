@@ -14,3 +14,9 @@ Bir sayının başka bir sayıya bölümünden kalan sayıyı verir. Çoğu kodl
 3%1=2
 
 ### input:
+Kullanıcıdan veri girişi alan komuttur.
+input("Herhangi bir şey yaz")
+
+### int(input):
+Kullanıcıdan sadece sayı veri girişi sağlar.
+int(input("Bir sayı gir"))
