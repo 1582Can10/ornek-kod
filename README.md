@@ -20,3 +20,7 @@ input("Herhangi bir şey yaz")
 ### int(input):
 Kullanıcıdan sadece sayı veri girişi sağlar.
 int(input("Bir sayı gir"))
+
+### print(değişken ve yazı):
+Bir değişken ve bir düz yazının yan yana yazdırılmasını sağlar.
+print(i," bir sayıdır.")
