@@ -11,7 +11,7 @@ else:
 Bir sayının başka bir sayıya bölümünden kalan sayıyı verir. Çoğu kodlama dilinde "%" işaretiyle gösterilir.
 5%4=1
 8%2=0
-3%1=2
+17%3=2
 
 ### input:
 Kullanıcıdan veri girişi alan komuttur.
